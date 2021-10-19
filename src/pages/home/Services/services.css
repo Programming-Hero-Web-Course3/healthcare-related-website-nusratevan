@@ -6,6 +6,11 @@
     margin: auto;
    
 }
+.service-line{
+    text-shadow: 10px 20px 15px black;
+    font-weight: bolder;
+    color: rgb(6, 66, 51);
+}
 .service{
     display: grid;
     grid-template-columns:repeat(2,1fr);

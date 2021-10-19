@@ -8,7 +8,11 @@
 
 }
 .card{
-    background-color: rgb(238, 238, 238);
+    background-color: rgb(67, 112, 91);
+    color: white;
+    box-shadow: 10px 10px 15px gray;
+    border-radius: 10px;
+    border-color: rgb(202, 202, 202);
   
 }
 .card-body{

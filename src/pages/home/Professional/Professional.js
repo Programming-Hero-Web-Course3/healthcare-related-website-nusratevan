@@ -3,7 +3,7 @@ import React from 'react';
 const Professional = () => {
     return (
         <div>
-            <h2 className="text-center">MEET THE PROFESSIONALS</h2>
+            <h2 className="text-center service-line">MEET THE PROFESSIONALS</h2>
             <div className="card-container">
                 <div className="card">
                     <img src="https://images.pexels.com/photos/4173251/pexels-photo-4173251.jpeg?auto=compress&cs=tinysrgb&h=750&w=1260" alt="" />

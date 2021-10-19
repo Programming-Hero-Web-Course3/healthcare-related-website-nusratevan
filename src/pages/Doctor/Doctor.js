@@ -1,6 +1,6 @@
 import React from 'react';
 const Doctor = (props) => {
-    const { img, name, detail } = props.doctor
+    const { img, name, detail, designation } = props.doctor
 
     return (
         <div>
@@ -11,6 +11,7 @@ const Doctor = (props) => {
                 <div class="col-md-8">
                     <div class="card-body">
                         <h5 class="card-title">{name}</h5>
+                        <h6>{designation}</h6>
                         <p class="card-text">{detail}</p>
                     </div>
                 </div>

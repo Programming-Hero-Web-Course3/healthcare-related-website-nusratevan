@@ -19,7 +19,7 @@ const ServiceDetail = () => {
             <h3>id : {detailId}</h3>
             <img src={service?.picture} alt="" />
             <h3>{service?.name}</h3>
-            <p>{detail}</p>
+            <p>{service?.detail}</p>
             <button onClick={click}>all services</button>
         </div>
     );
