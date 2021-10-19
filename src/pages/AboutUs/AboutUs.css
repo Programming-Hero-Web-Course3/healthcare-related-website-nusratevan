@@ -1,0 +1,15 @@
+.about-banner{
+    width: 100%;
+    height: 500px;
+    background:radial-gradient(#0000004b, #000000c2),
+     url("https://cdn1.edgedatg.com/aws/v2/abc/GeneralHospital/showimages/f00dc50ab418c8b1e7116e77ab5f03f9/1344x538-Q75_f00dc50ab418c8b1e7116e77ab5f03f9.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.cover{
+    background-color: rgb(175, 175, 175);
+   
+}
+.error{
+    color: red;
+}

@@ -1,0 +1,8 @@
+.banner-doctors{
+    width: 100%;
+    height: 500px;
+    background:radial-gradient(#0000004b, #000000c2),
+     url(https://st4.depositphotos.com/9999814/24066/i/1600/depositphotos_240661604-stock-photo-healthcare-people-group-professional-doctor.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}

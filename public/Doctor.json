@@ -1,0 +1,30 @@
+[
+    {
+        "id": "821597",
+        "name": "Timothy Newman",
+        "img": "https://images.unsplash.com/photo-1591604021695-0c69b7c05981?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1170&q=80",
+        "designation": "Cardiologist & Surgeon ",
+        "detail": "Cardiac surgeons are not cardiologists, or doctors who specialize in diagnosing and treating heart disease. Cardiologists typically refer people to a cardiac surgeon when the need arises, because most cardiologists do not perform heart surgeries themselves. They generally perform diagnostic tests and help people manage chronic heart conditions."
+    },
+    {
+        "id": "808567",
+        "name": "Jeffrey Morgan",
+        "img": "https://images.unsplash.com/photo-1607990283143-e81e7a2c9349?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1141&q=80",
+        "designation": "Gynecologist & Surgeon ",
+        "detail": "Gynecological surgery refers to surgery on the female reproductive system usually performed by gynecologists. It includes procedures for benign conditions, cancer, infertility, and incontinence. Gynecological surgery may occasionally be performed for optional or cosmetic purposes."
+    },
+    {
+        "id": "8357597",
+        "name": "Lori Robertson",
+        "img": "https://images.unsplash.com/photo-1585842378054-ee2e52f94ba2?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1332&q=80",
+        "designation": "Dentist ",
+        "detail": "A dentist, also known as a dental surgeon, is a medical professional who specializes in dentistry, the diagnosis, prevention, and treatment of diseases and conditions of the oral cavity. The dentist's supporting team aids in providing oral health services. The dental team includes dental assistants, dental hygienists, dental technicians, and sometimes dental therapists."
+    },
+    {
+        "id": "8592321",
+        "name": "Brandon Fowler",
+        "img": "https://images.unsplash.com/photo-1610013597524-6fe8bf4a4a36?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1170&q=80",
+        "designation": "Neurologist & Surgeon ",
+        "detail": "The major difference between a neurologist and a neurosurgeon is fairly clear. While a neurosurgeon can perform surgery to treat medical conditions, neurologists use medicines and other related procedures to cure the conditions and ailments. Neurologists and neurosurgeons complement each others’ work."
+    }
+]

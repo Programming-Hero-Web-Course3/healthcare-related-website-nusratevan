@@ -1,0 +1,13 @@
+.services-banner{
+    width: 100%;
+    height: 500px;
+    background:radial-gradient(#0000004b, #000000c2),
+     url(https://isqua.org/media/k2/items/cache/18bdd04e288fc232234be2fb5ea8bf38_XL.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.services-p{
+    width: 50%;
+    margin: auto;
+    text-align: center;
+}

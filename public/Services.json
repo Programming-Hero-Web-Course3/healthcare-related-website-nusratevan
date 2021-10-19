@@ -1,0 +1,38 @@
+[
+    {
+        "_id": "615010a21191f34a9f72aab0",
+        "name": "24/7 Special Service",
+        "picture": "https://th.bing.com/th/id/R.a2011ed783bb9161c616312f6bcc3622?rik=qol5LKgTn6glfA&pid=ImgRaw&r=0",
+        "detail": "5 advantages of choosing Special Unit Service Desk 24/7. Phone support. If you have an IT problem, you can always call the same dedicated phone number 24 hours a day – regardless of job size. We will then solve the problem from there. E-mail support. Get IT support at your convenience, 24/7."
+    },
+    {
+        "_id": "615010a260c0b20ac667ed08",
+        "name": "Blood Analysis Service",
+        "picture": "https://th.bing.com/th/id/OIP.6__cybmXoI5k2PFxWlkGZwHaD5?pid=ImgDet&rs=1",
+        "detail": "Blood Testing Service provides Private Blood Tests and other laboratory testing services to individuals throughout the UK and further afield at our walk in clinics. We can visit you at home, hotel, workplace or at your preferred location and take your private blood tests with the minimal of disruption to your busy."
+    },
+    {
+        "_id": "615010a2cc836077dfecfce0",
+        "name": "Bone Care Service",
+        "picture": "https://th.bing.com/th/id/OIP.1NQ6H15RJkl9mXs2zNOlAgHaE-?pid=ImgDet&rs=1",
+        "detail": "Services. Bone densitometry is an x-ray exam that measures bone density to determine the presence of osteoporosis and other causes of bone thinning. A typical exam consists of two scans, one at the lower spine and one at the hip. Additional scans may be done depending on the patient's medical history."
+    },
+    {
+        "_id": "615010a2cc836077dfecfce0",
+        "name": "Cardiac Implant Service",
+        "picture": "https://th.bing.com/th/id/OIP.jVNHtRZgBSUC5Ih9SyvbCAHaE7?pid=ImgDet&rs=1",
+        "detail": "Cardioverter Defibrillators (ICD's) Implants. ICD's are small automatic devices that can detect and treat arrhythmias in patients with ventricular tachycardia and ventricular fibrillation, where the heart beats dangerously fast. Today's device consists of a generator slightly smaller than the size of a wallet attached to electrode catheters."
+    },
+    {
+        "_id": "615010a2cc836077dfecfce0",
+        "name": "Operation Theater Service",
+        "picture": "http://www.crp-bangladesh.org/sites/default/files/page-gallery/ot44.jpg",
+        "detail": "The operation theatre suit of a hospital is a complex workshop and the most important facility of the surgical department. Operating theatres are expensive to build and equip, but the experience of many institutions indicates that the individual operating rooms or the operation theatre suite (OT suite) have been usually under designed."
+    },
+    {
+        "_id": "615010a2cc836077dfecfce0",
+        "name": "Outpatient Rehabilitation",
+        "picture": "https://th.bing.com/th/id/OIP.KGOcNLYtEt4KUntOyFaibwHaD5?pid=ImgDet&rs=1",
+        "detail": "Of the three outpatient rehab services, occupational therapy is the one that most closely deals with people’s everyday lives. Occupational therapy helps individuals regain their basic day to day life skills. It is often prescribed to those living with degenerative and/or neurological conditions."
+    }
+]

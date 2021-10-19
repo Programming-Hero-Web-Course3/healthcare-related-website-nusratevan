@@ -1,0 +1,16 @@
+.others-container{
+    
+    height: 400px;
+    background-color: rgb(9, 9, 10);
+    width: 100%;
+    
+}
+.others{
+    display: grid;
+    grid-template-columns: repeat(2,1fr);
+    grid-gap: 30px;
+}
+.white{
+    color: white;
+    margin-top: 60px;
+}
