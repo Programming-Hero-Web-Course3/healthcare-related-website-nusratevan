@@ -1,7 +1,7 @@
 # Getting Started with Create React App
 
 General Hospital
-https://epic-borg-1181ca.netlify.app/
+https://health-care-416f0.web.app
 ## Available Scripts
 1. website name genenal hospital
 2. Here Expert Doctors are available.
